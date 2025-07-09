@@ -1,8 +1,8 @@
 # 🐳 Complete Docker Mastery: From Zero to Production Expert
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/learn-docker?style=social)](https://github.com/yourusername/learn-docker)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/learn-docker?style=social)](https://github.com/yourusername/learn-docker/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/learn-docker)](https://github.com/yourusername/learn-docker/issues)
+[![GitHub stars](https://img.shields.io/github/stars/khiladisngh/learn-docker?style=social)](https://github.com/khiladisngh/learn-docker)
+[![GitHub forks](https://img.shields.io/github/forks/khiladisngh/learn-docker?style=social)](https://github.com/khiladisngh/learn-docker/fork)
+[![GitHub issues](https://img.shields.io/github/issues/khiladisngh/learn-docker)](https://github.com/khiladisngh/learn-docker/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **The most comprehensive, hands-on Docker learning course that takes you from absolute beginner to production-ready expert with real-world projects and industry best practices.**
@@ -79,7 +79,7 @@ Advanced container orchestration with Kubernetes:
 #### Option 1: Automated Setup (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/learn-docker.git
+git clone https://github.com/khiladisngh/learn-docker.git
 cd learn-docker
 
 # Run setup script (Windows)
@@ -201,8 +201,8 @@ This course thoroughly prepares you for industry certifications:
 ## 🤝 Community & Support
 
 ### 💬 Get Help & Connect:
-- **📋 GitHub Issues**: [Report bugs or ask questions](https://github.com/yourusername/learn-docker/issues)
-- **💡 Discussions**: [Join community discussions](https://github.com/yourusername/learn-docker/discussions)
+- **📋 GitHub Issues**: [Report bugs or ask questions](https://github.com/khiladisngh/learn-docker/issues)
+- **💡 Discussions**: [Join community discussions](https://github.com/khiladisngh/learn-docker/discussions)
 - **🐛 Bug Reports**: Help us improve the course
 - **💡 Feature Requests**: Suggest new content or improvements
 
@@ -262,7 +262,7 @@ If this course helps you land a job, ace an interview, or level up your skills:
 
 **🐳 Master Docker. Build Better Software. Accelerate Your Career. 🚀**
 
-**[Get Started Now](docker/00-introduction/README.md)** | **[View All Chapters](#-complete-course-curriculum)** | **[Join Community](https://github.com/yourusername/learn-docker/discussions)**
+**[Get Started Now](docker/00-introduction/README.md)** | **[View All Chapters](#-complete-course-curriculum)** | **[Join Community](https://github.com/khiladisngh/learn-docker/discussions)**
 
 </div>
 
